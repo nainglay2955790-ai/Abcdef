@@ -20,7 +20,7 @@ from Crypto.Random import get_random_bytes
 
 r, g, y, b, w, c = "\033[1;31m", "\033[1;32m", "\033[1;33m", "\033[1;34m", "\033[0m", "\033[1;36m"
 
-TARGET_URL = "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=4c49684b2d2e&gw_sn=H1U82VB006839&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.180&mac=ea:4b:cc:49:db:bd&slot_num=16&nasip=192.168.1.63&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C311&chap_challenge=%5C251%5C002%5C152%5C160%5C153%5C313%5C221%5C035%5C277%5C321%5C256%5C070%5C153%5C351%5C231%5C142"
+TARGET_URL = "https://portal-as.ruijienetworks.com/api/auth/wifidog?stage=portal&gw_id=4c49680dc1b3&gw_sn=H1U824U009044&gw_address=192.168.110.1&gw_port=2060&ip=192.168.110.2&mac=02:18:4c:49:fb:ca&slot_num=11&nasip=192.168.1.26&ssid=VLAN233&ustate=0&mac_req=1&url=http%3A%2F%2F192.168.0.1%2F&chap_id=%5C351&chap_challenge=%5C253%5C045%5C130%5C251%5C100%5C117%5C225%5C006%5C246%5C077%5C142%5C175%5C357%5C310%5C002%5C013"
 
 TELEGRAM_BOT_TOKEN = "" 
 TELEGRAM_CHAT_ID = ""
